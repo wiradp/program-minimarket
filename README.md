@@ -524,7 +524,7 @@ Mari kita mulai dengan mengikuti langkah-langkah tersebut diatas
         ![test case4](img/test4.png)
        
     
-5. Kesimpulan
+# Kesimpulan
    - Program ini merupakan simulasi kasir bernama "Pacmarket" yang memungkinkan pengguna untuk melakukan berbagai operasi belanja, seperti menambahkan barang, mengedit barang, menghapus barang, melakukan check-out, dan mereset daftar belanja.
    - Program ini menggunakan library tabulate dan pandas untuk mempermudah tampilan dan pengelolaan data belanja.
    - Pengguna diminta untuk memasukkan ID Customer pada awalnya, dan program menyambut pengguna dengan pesan selamat datang.

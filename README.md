@@ -508,12 +508,20 @@ Mari kita mulai dengan mengikuti langkah-langkah tersebut diatas
      Customer ingin menambahkan dua item yaitu :
      - Nama item : ayam goreng, Qty : 2, Harga : 20000
      - Nama item : pasta gigi, Qty : 3, Harga : 15000
-    
-    - Test 2
-      - Ternyata Customer salah membeli salah satu item dari belanjaan yang sudah ditambahkan, maka Customer akan menghapus salah satu item yaitu pasta gigi
+       ![test case1](img/test1.png)
+        
+   - Test 2
+     - Ternyata Customer salah membeli salah satu item dari belanjaan yang sudah ditambahkan, maka Customer akan menghapus salah satu item yaitu pasta gigi.
+     - 
+       ![test case2](img/test2.png)
 
-    - Test 3
-      - Ternyata setelah dipikir - pikir Customer salah memasukkan item yang ingin dibelanjakan! Daripada menghapusnya satu-satu, maka Customer cukup menggunakan method membatalkan  belanja
+   - Test 3
+     - Ternyata setelah dipikir - pikir Customer salah memasukkan item yang ingin dibelanjakan! Daripada menghapusnya satu-satu, maka Customer cukup menggunakan method membatalkan  belanja.
+       ![test case3](img/test3.png)
+
+   - Test 4
+     - Setelah Customer selesai berbelanja, akan menghitung total belanja yang harus dibayarkan menggunakan method check_out_belanja. Sebelum mengeluarkan output total belanja akan menampilkan item - item yang dibeli.
+        ![test case4](img/test4.png)
        
     
 5. Kesimpulan

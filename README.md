@@ -28,7 +28,7 @@ Sehingga customer yang tidak berada di kota tersebut bisa membeli barang dari su
 
 Mari kita mulai dengan mengikuti langkah-langkah tersebut diatas
 
-1. Flowchart --> SOON
+1. Flowchart
 2. Membuat code
    - Import library
      ```

@@ -29,7 +29,9 @@ Sehingga customer yang tidak berada di kota tersebut bisa membeli barang dari su
 Mari kita mulai dengan mengikuti langkah-langkah tersebut diatas
 
 1. Flowchart
-2. Membuat code
+   - Alur proses dari program ini dapat kita lihat pada flowchart berikut:
+     ![flowchart](img/flowchart.jpg)
+3. Membuat code
    - Import library
      ```
      from tabulate import tabulate
@@ -503,7 +505,7 @@ Mari kita mulai dengan mengikuti langkah-langkah tersebut diatas
       ```
       - Metode ini digunakan untuk mencetak pesan penutup ke layar yang menandai akhir dari program atau sesi tertentu
 
-3. Tes Case
+4. Tes Case
    - Test 1
      Customer ingin menambahkan dua item yaitu :
      - Nama item : ayam goreng, Qty : 2, Harga : 20000
@@ -539,7 +541,7 @@ Mari kita mulai dengan mengikuti langkah-langkah tersebut diatas
 
 
 
-> Tentu saja program ini masih jauh dari kata sempurna namun program ini akan terus diperbaharui dan dikembangkan sesuai dengan kebutuhan
+> **Tentu saja program ini masih jauh dari kata sempurna namun program ini akan terus diperbaharui dan dikembangkan sesuai dengan kebutuhan**
 
      
     
